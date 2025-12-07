@@ -1,0 +1,61 @@
+Question Trigger,Answer,Category,Sub-category
+delivery time,"Your credit card is delivered within 5–7 business days after approval.",Card Delivery,Logistics
+track card,"You can track your card using the courier tracking link shared on SMS and email.",Card Delivery,Tracking
+delivery delay,"If delivery is delayed beyond 7 days we escalate it to the courier team.",Card Delivery,Logistics
+update delivery address,"You can update the address before dispatch from the app's profile → address section.",Card Delivery,Address
+application status,"You can check your credit card application status from the app dashboard.",Account & Onboarding,Application
+kyc status,"KYC verification gets completed within 24 hours after uploading documents.",Account & Onboarding,KYC
+kyc rejected,"You may re-upload documents to complete KYC if rejected.",Account & Onboarding,KYC
+credit limit info,"Your credit limit depends on income, credit score and internal eligibility.",Account & Onboarding,Credit Limit
+increase credit limit,"You can request a credit limit increase after 6 months of regular usage.",Account & Onboarding,Credit Limit
+add on card,"Add-on cards require no documents if primary card KYC is complete.",Account & Onboarding,Add-on Card
+add on card fee,"Add-on cards are free for lifetime for primary card holders.",Account & Onboarding,Add-on Card
+card activation,"You can activate the card from the app → card settings → activate card.",Account & Onboarding,Activation
+international usage,"You can enable international usage from app settings anytime.",Account & Onboarding,Settings
+forex mark up,"Forex markup is 2.5% on international spends.",Transaction & EMI,Fees
+statement cycle,"Statements are generated on the 10th of every month.",Bill & Statement,Cycle
+bill due date,"Your bill due date is 20 days after statement generation.",Bill & Statement,Due Date
+minimum due,"Minimum due is usually 5% of the total outstanding bill.",Bill & Statement,Due Amount
+late fee,"A late fee is charged if payment is not made by the due date.",Bill & Statement,Fees
+interest calculation,"Interest is charged daily on the outstanding balance until full repayment.",Bill & Statement,Interest
+statement not received,"If statement is not received you can download it from the app anytime.",Bill & Statement,Download
+download statement,"You can download the statement from app → statements → choose month.",Bill & Statement,Download
+emi eligibility,"Transactions above ₹2,500 and within 30 days are eligible for EMI conversion.",Transaction & EMI,EMI
+convert to emi,"Easily convert eligible transactions into EMI from app → transactions.",Transaction & EMI,EMI
+emi tenure,"You can convert transactions into 3 / 6 / 9 / 12 month EMI.",Transaction & EMI,EMI
+emi preclosure,"You can foreclose EMI anytime with zero foreclosure charge.",Transaction & EMI,EMI
+refund time,"Merchant refunds reflect within 5–7 business days.",Transaction & EMI,Refunds
+refund not received,"If refund exceeds 7 days, we raise a query with the merchant.",Transaction & EMI,Refunds
+transaction failed,"If a transaction failed and amount was deducted, it will auto-refund within 24 hours.",Transaction & EMI,Payments
+transaction dispute,"You can dispute unauthorized transactions via app → support → dispute.",Transaction & EMI,Dispute
+chargeback,"Chargeback request is raised once you dispute the transaction.",Transaction & EMI,Dispute
+reward points,"You earn 1 reward point for every ₹100 spent.",Rewards,Points
+redeem points,"You can redeem reward points for vouchers or cashback.",Rewards,Redemption
+fuel surcharge,"Fuel transactions attract a surcharge that may vary between merchants.",Fees,Fuel
+cash withdrawal,"You can withdraw cash from ATM up to 30% of credit limit; charges apply.",Account & Onboarding,Cash Withdrawal
+cash withdrawal fee,"Cash withdrawal fee is ₹300 per withdrawal + interest from day of withdrawal.",Fees,Cash
+auto debit,"Auto-debit deducts the due amount automatically on the due date.",Repayment,Autopay
+enable auto debit,"Enable auto debit from app → payments → auto debit setup.",Repayment,Autopay
+payment options,"Payments can be made via UPI, NetBanking, Debit Card or Auto-debit.",Repayment,Payments
+payment reflection time,"Payments made by UPI reflect instantly; others may take 2–3 hours.",Repayment,Payments
+payment failed,"If payment fails the amount will be credited back within 2 hours.",Repayment,Payments
+overdue amount,"Overdue amount is the outstanding bill pending after the due date.",Collections,Overdue
+collections call back,"You can request a callback from the collections team for repayment support.",Collections,Support
+payment plan,"We offer flexible payment plans for overdue accounts.",Collections,Payment Plan
+waiver request,"You may apply for waiver on late fee or interest once every 12 months.",Collections,Waiver
+lost card,"If your card is lost or stolen you should immediately block it using the app.",Account & Onboarding,Card Security
+block card,"Block card from app → card settings → block card instantly.",Account & Onboarding,Card Security
+card replacement,"Replacement card will be dispatched within 48 hours of raising request.",Card Delivery,Replacement
+pin reset,"You can reset card PIN instantly from the app.",Account & Onboarding,PIN
+update mobile number,"You can update your mobile number from profile → mobile update.",Account & Onboarding,Profile
+update email,"You can update your email ID from profile → email update.",Account & Onboarding,Profile
+update address,"You can update communication address from profile → address update.",Account & Onboarding,Profile
+india toll free,"Toll-free helpline number is 1800-XXX-XXXX.",Support,Contact
+international helpline,"International helpline number is +91-XX-XXXX-XXXX.",Support,Contact
+annual fee,"Annual fee is ₹0 for first year and waived on spend based milestone.",Fees,Annual Fee
+joining fee,"There is no joining fee for the credit card.",Fees,Joining Fee
+fee waiver,"Annual fee is waived on annual spends above ₹1,50,000.",Fees,Fee Waiver
+inactive card,"Transactions may decline if card is inactive for 6 months — activate from app.",Account & Onboarding,Status
+transaction declined,"Ensure card is active and domestic/international usage is enabled.",Transaction & EMI,Decline
+contactless payment,"You can enable/disable contactless tap payments from card controls.",Account & Onboarding,Card Controls
+virtual card,"A virtual card is available inside the app for secure online transactions.",Account & Onboarding,Virtual Card
